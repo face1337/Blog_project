@@ -1,1 +1,11 @@
 # Blog_project made with Django framework 
+![blog_home](https://i.imgur.com/NWJ0Aop.png)
+![blog_login](https://i.imgur.com/nooY3jh.png)
+![blog_profile](https://i.imgur.com/0lwhgRW.png)
+![blog_newpost](https://i.imgur.com/UxolPOV.png)
+![blog_userposts](https://i.imgur.com/GFNnyNt.png)
+![blog_userposts](https://i.imgur.com/uobxvGy.png)
+![blog](https://i.imgur.com/HBvplUh.png)
+![blog_logout](https://i.imgur.com/XDi7Ar1.png)
+![blog_register](https://i.imgur.com/SIF2sOn.png)
+![blog_resetpassword](https://i.imgur.com/g7y68CA.png)
